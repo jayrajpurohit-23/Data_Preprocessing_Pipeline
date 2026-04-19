@@ -30,7 +30,7 @@ The goal is to help HR teams **identify high-risk employees early** and take pre
 
 ```
 ├── hr_data.csv              # Input dataset
-├── main.py                 # ML pipeline script
+├── data_preprocessing_pipeline.ipynb                 # ML pipeline script
 ├── attrition_model.pkl     # Saved model (after training)
 ├── hr_data_export.csv      # Processed dataset (optional)
 └── README.md               # Project documentation
