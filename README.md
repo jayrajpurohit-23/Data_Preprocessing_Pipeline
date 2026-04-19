@@ -23,7 +23,6 @@ The goal is to help HR teams **identify high-risk employees early** and take pre
 * Python 🐍
 * Pandas & NumPy
 * Scikit-learn
-* Joblib (for model saving)
 
 ---
 
